@@ -13,3 +13,19 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# Mac OS
+*~
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Project
+GNUmakefile
+.local/
+/doc/
+/commit
