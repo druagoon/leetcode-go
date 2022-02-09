@@ -36,3 +36,6 @@ venv.bak/
 # Project
 GNUmakefile
 /tmp/
+/commit
+/.lang
+/requirements.txt
